@@ -1,0 +1,6 @@
+interface:
+  display_name: "Short Video B-roll Editor"
+  short_description: "Edit shorts with B-roll and audio"
+  default_prompt: "Use $short-video-broll-editor to create a finished short video from my MP4 and SRT with B-roll, dynamic text, SFX, BGM, and optimized voice."
+policy:
+  allow_implicit_invocation: true
