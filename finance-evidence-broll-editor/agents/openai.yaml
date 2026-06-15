@@ -1,0 +1,3 @@
+display_name: Finance Evidence B-roll Editor
+short_description: Evidence-led finance B-roll editing
+default_prompt: Add or revise evidence-led B-roll in my finance talking-head video. Keep A-roll anchored, show spoken numbers and named entities, add music/SFX/transitions, and render only changed segments when possible.
