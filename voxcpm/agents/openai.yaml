@@ -1,0 +1,4 @@
+interface:
+  display_name: "VoxCPM"
+  short_description: "Generate and clone speech with the local VoxCPM install."
+  default_prompt: "Use VoxCPM to generate or clone speech from text and audio references."
