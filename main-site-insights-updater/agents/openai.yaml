@@ -1,0 +1,6 @@
+interface:
+  display_name: "Main Site Insights Updater"
+  short_description: "Publish bilingual Wallace Insights posts"
+  default_prompt: "Use $main-site-insights-updater to convert an oral script into a bilingual Wallace Wang Insights article, generate a 16:9 cover image, publish it, and verify the live result."
+policy:
+  allow_implicit_invocation: true
