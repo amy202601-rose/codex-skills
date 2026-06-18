@@ -10,11 +10,14 @@ import openpyxl
 
 
 DEFAULT_WORKBOOK = r"C:\Users\33663\Desktop\宥宥\01.xlsx"
+
 PLATFORM_COLUMNS = {
     "小红书": "xiaohongshu",
     "抖音": "douyin",
+    "视频号": "wechat_channels",
 }
-REQUIRED_COLUMNS = ["日期", "时间", "视频", "标题", "描述", "标签", "小红书", "抖音"]
+
+REQUIRED_COLUMNS = ["日期", "时间", "视频", "标题", "描述", "标签"]
 
 
 def parse_date(value):
@@ -67,8 +70,11 @@ def read_plan(workbook_path, target_date, include_future):
     headers = [cell_text(cell.value) for cell in sheet[1]]
     index = {name: pos for pos, name in enumerate(headers) if name}
     missing = [name for name in REQUIRED_COLUMNS if name not in index]
+    missing_platforms = [name for name in PLATFORM_COLUMNS if name not in index]
     if missing:
         raise ValueError(f"Missing required columns: {', '.join(missing)}")
+    if missing_platforms:
+        raise ValueError(f"Missing platform columns: {', '.join(missing_platforms)}")
 
     now = dt.datetime.now()
     rows = []
