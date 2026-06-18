@@ -1,4 +1,4 @@
 interface:
   display_name: "发布视频"
-  short_description: "按照Excel日程自动发布短视频到指定平台"
+  short_description: "按照 Excel 日程自动发布短视频到小红书、抖音和视频号"
   default_prompt: "Use $publish-videos to read my Excel schedule and publish the due videos."
