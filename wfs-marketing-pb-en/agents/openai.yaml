@@ -1,0 +1,4 @@
+interface:
+  display_name: "WFS Marketing PB EN"
+  short_description: "把英文口播稿生成发布字段并写入wallacewang.ca发布中心"
+  default_prompt: "Use $wfs-marketing-pb-en to turn this English oral script into publish-ready fields and write it into wallacewang.ca."
