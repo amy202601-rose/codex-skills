@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "WFS Marketing PB Cut CN"
+  short_description: "把中文知识切片口播稿写入知识切片发布中心工具"
+  default_prompt: "Use $wfs-marketing-pb-cut-cn to turn this Chinese knowledge-slice script into publish-ready fields and write it into 知识切片."

@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "WFS Marketing PB YouTube EN"
+  short_description: "把英文YouTube长视频口播稿写入YouTube长视频发布中心"
+  default_prompt: "Use $wfs-marketing-pb-youtube-en to turn this English YouTube long-video script into publish-ready fields and write it into YouTube长视频."

@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "WFS Marketing PB Cognition EN"
+  short_description: "把英文认知圈口播稿写入Wallace认知圈发布中心"
+  default_prompt: "Use $wfs-marketing-pb-cognition-en to turn this English cognition video script into publish-ready fields and write it into Wallace认知圈."
