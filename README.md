@@ -22,6 +22,24 @@ wfs-marketing-pb-cn
 wfs-marketing-pb-en
 给Codex口播稿，告诉它“写入wallacewang.ca”，它自动生成英文的标题、封面主标题、封面副标题、标签、描述、正文等，写入发布中心的一个新的贴子里面。
 
+wfs-marketing-pb-cognition-cn
+给Codex口播稿，告诉它“中文认知圈视频写入Wallace认知圈”
+
+wfs-marketing-pb-cognition-en
+给Codex口播稿，告诉它“英文认知圈视频写入Wallace认知圈”
+
+wfs-marketing-pb-cut-cn
+给Codex口播稿，告诉它“中文知识切片视频写入知识切片”
+
+wfs-marketing-pb-cut-en
+给Codex口播稿，告诉它“英文知识切片视频写入知识切片”
+
+wfs-marketing-pb-youtube-cn
+给Codex口播稿，告诉它“中文YouTube长视频写入YouTube长视频”
+
+wfs-marketing-pb-youtube-en
+给Codex口播稿，告诉它“英文YouTube长视频写入YouTube长视频”
+
 post-video-en
 发布视频：/Users/wallacemac/Downloads/1157.mp4，计划发布时间：2026年6月26日19:00，对应发布中心标题“加拿大买美股ETF，别只盯15%预扣税”这个贴。
 
