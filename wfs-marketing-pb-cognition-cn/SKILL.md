@@ -38,24 +38,25 @@ Use this skill to turn a Chinese Wallace Wang cognition/business oral script int
 Always follow the user's title system:
 
 - First extract the script's theme, audience, pain point, misconception, and risk boundaries.
-- If no fresh platform爆款 samples are provided or accessible, state briefly that this run lacks fresh sample evidence and relies on the local title rules, historical word bank, and the script's own terms.
+- If no fresh YouTube爆款 samples are provided or accessible, state briefly that this run lacks fresh YouTube sample evidence and relies on the local title rules, historical word bank, and the script's own terms.
 - For `Wallace认知圈`, prefer business cognition, sales cognition, entrepreneurship, work reflection, value perception, client psychology, and personal growth angles.
 - Keep the title truthful, human, and educational. Do not overpromise, exaggerate, or turn the script into financial advice if the script is not about finance.
 - Keep cover title short, generally 6-12 Chinese characters.
 - Make the description a hook, not a summary. It should create curiosity and encourage watching the full video.
 
-## Xiaohongshu Trend Mining Before Title Generation
+## YouTube Trend Mining Before Title Generation
 
-Before generating titles, run a Xiaohongshu trend-mining step when network/browser access is available and the task is not urgent:
+Before generating titles, run a YouTube trend-mining step when network/browser access is available and the task is not urgent:
 
 1. Extract 3-6 search keywords from the script, including the cognition theme, audience, pain point, and surprising angle. Examples: `客户嫌贵`, `销售认知`, `创业认知`, `客户价值`, `价格异议`, `做生意逻辑`.
-2. Search Xiaohongshu with these keywords. Prefer current posts in the same topic or adjacent business/cognition topics.
-3. Rank visible candidate posts by public likes and comments.
-4. Keep up to 10 usable posts and record cover title, post title, visible likes/comments, and relevance.
-5. Extract high-frequency words, hook structures, audience labels, anxiety/benefit/risk phrases, and outdated phrases to avoid.
-6. Use the verified patterns plus the current script's actual content to generate title, cover title, and cover subtitle.
+2. Search YouTube with these keywords. Prefer desktop Google Chrome if the user has a logged-in YouTube session there. Use YouTube search sorted by `Popularity` when possible, for example `https://www.youtube.com/results?search_query=<keyword>&sp=CAM%253D`.
+3. Prefer current or evergreen videos in the same topic or adjacent business/cognition topics. Avoid unrelated entertainment, news-only, or pure finance results unless the script itself is about that angle.
+4. Keep up to 10 usable videos from the Popularity-sorted results and record: visible thumbnail/cover text, video title, channel when visible, view count/date when visible, and relevance.
+5. Extract high-frequency words, hook structures, audience labels, anxiety/benefit/risk phrases, contrast patterns, number patterns, and outdated phrases to avoid.
+6. Add useful proven phrases to the accumulated cognition word bank only when they are reusable for Wallace认知圈 and truthful for this script category.
+7. Use the verified YouTube patterns plus the current script's actual content to generate title, cover title, and cover subtitle.
 
-If Xiaohongshu is blocked, logged out, rate-limited, or interaction counts are unavailable, say trend-mining evidence is unavailable for this run and still complete the publish workflow.
+If YouTube is blocked, logged out, rate-limited, CAPTCHA-gated, or usable Popularity-sorted results are unavailable, say trend-mining evidence is unavailable for this run and still complete the publish workflow.
 
 ## Accumulated Cognition Word Bank
 
@@ -205,3 +206,4 @@ Keep the final response brief. Confirm creation or update and list:
 - 标签
 
 Mention that the description went into remarks and the formatted Chinese script went into `主内容 / 口播稿`.
+
