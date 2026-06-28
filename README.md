@@ -49,7 +49,4 @@ post-video-english
 wfs-cog-picture-cn
 做认知图视频中文封面
 
-wfs-cog-picture-en
-做认知图视频英文封面
-
 
