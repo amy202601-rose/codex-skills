@@ -45,3 +45,11 @@ post-video-en
 
 post-video-english
 发布视频：/Users/wallacemac/Downloads/1158(en).mp4，计划发布时间：2026年6月27日19:00，对应发布中心标题“US ETFs in TFSA or RRSP? You're Looking at the Wrong Tax”这个贴。
+
+wfs-cog-picture-cn
+做认知图视频中文封面
+
+wfs-cog-picture-en
+做认知图视频英文封面
+
+
