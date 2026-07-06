@@ -47,6 +47,11 @@ post-video-english
 发布视频：/Users/wallacemac/Downloads/1158(en).mp4，计划发布时间：2026年6月27日19:00，对应发布中心标题“US ETFs in TFSA or RRSP? You're Looking at the Wrong Tax”这个贴。
 
 wfs-cog-picture-cn
-做认知图视频中文封面
+做认知圈视频中文封面
+
+wfs-cover-design
+设计认知圈封面，偏财经类的封面规则：深蓝/炭黑/金色/冷灰为主，搭配税单、金额、RSP/RESP、退税、图表线、金融网格等元素。
+
+
 
 
