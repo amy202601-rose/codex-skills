@@ -55,3 +55,6 @@ wfs-cover-design
 
 
 
+
+wfs-youtube-shorts-generator
+把 YouTube/长视频按全部逻辑片段或爆点片段剪成 9:16 Shorts/Reels/TikTok 竖屏短视频的 Skill。
